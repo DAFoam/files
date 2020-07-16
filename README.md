@@ -1,3 +1,3 @@
 # files
 
-This repository stores files for DAFoam tutorials and regression tests.
+This repository stores files for DAFoam installation, tutorials, and regression tests.
